@@ -9,4 +9,7 @@ Another change from b1
 =======
 
 2
+<<<<<<< HEAD
+>>>>>>> parent of 2bbff11... Added 3
+=======
 >>>>>>> parent of 2bbff11... Added 3
