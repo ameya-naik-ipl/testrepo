@@ -5,11 +5,6 @@ Change from branch b1
 Another change from b1
 
 1
-<<<<<<< HEAD
-=======
 
 2
-<<<<<<< HEAD
->>>>>>> parent of 2bbff11... Added 3
-=======
->>>>>>> parent of 2bbff11... Added 3
+
